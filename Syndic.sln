@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syndic", "Syndic\Syndic.csproj", "{7596CF50-0DAE-491B-BC8B-95D448E4E6D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syndic.Web", "Syndic\Syndic.Web.csproj", "{7596CF50-0DAE-491B-BC8B-95D448E4E6D9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syndic.Tests", "Syndic.Tests\Syndic.Tests.csproj", "{EC70AABF-C283-4260-BEB7-D8921C86E998}"
 EndProject
